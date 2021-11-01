@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimerCounter</string>
+    <string name="enter_time_in_minutes">Enter Time in Minutes</string>
+    <string name="submit">onetimeReq</string>
+</resources>
